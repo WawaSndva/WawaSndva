@@ -1,4 +1,5 @@
-## Hi there 👋
+### Hello World! I'm Wawa 👋
+![alt text](github-header-image.png)
 
 <!--
 **WawaSndva/WawaSndva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 🤔 I’m looking for help with ChtGpt of Ai
+- 💬 Ask me about program or food😍
+- 📫 How to reach me: just search for this account 
+- 😄 Pronouns: change it yourself hehe
+- ⚡ Fun fact: Learning is the best investment for the future
+- skils 👇
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+- Connect with me 👇
+![https://instagram.com/ratuaww_](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
